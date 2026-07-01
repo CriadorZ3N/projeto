@@ -1,0 +1,6 @@
+{
+  "name": "Despertar Profissional",
+  "description": "Landing page estruturada no framework Dor-Revolta-Identificação-Evento-Ação para despertar a consciência corporativa e capturar leads de forma impactante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
